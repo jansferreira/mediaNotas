@@ -19,7 +19,7 @@ public class Media {
 		
 		double media = (dNota1 + dNota2 + dNota3 + dNota4) / 4;
 		
-		if(media >= 7) {
+		if(media >= 8) {
 			JOptionPane.showMessageDialog(null,"A media das notas é: " + media 
 												+ " Você está aprovado!");
 		}else {
